@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site ITM Consórcios",
-    "currentPage": "index.html",
+    "currentPage": "itmconsorcios.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -79,10 +79,10 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "itmconsorcios.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ITM Consórcios",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
