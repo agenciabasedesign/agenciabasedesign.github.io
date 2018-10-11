@@ -15,7 +15,7 @@
         "mainFont": "Rubik",
         "display1Font": "Rubik",
         "display1Size": "4.0",
-        "display2Font": "Righteous",
+        "display2Font": "Indie Flower",
         "display2Size": "1.8",
         "display5Font": "Rubik",
         "display5Size": "1.3",
@@ -1104,7 +1104,7 @@
               "color": "#767676"
             },
             "B": {
-              "color": "#104556"
+              "color": "#861834"
             }
           },
           "_name": "content4",
