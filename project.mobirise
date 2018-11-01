@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site ITM Consórcios",
-    "currentPage": "itmconsorcios.html",
+    "currentPage": "tabelacontemplados.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2095,7 +2095,7 @@
               }
             },
             ".mbr-section-title B": {
-              "color": "#104556"
+              "color": "#ff7f9f"
             }
           },
           "_name": "table1",
